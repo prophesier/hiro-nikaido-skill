@@ -10,7 +10,7 @@
 
 <br>
 
-![](https://img.shields.io/badge/バージョン-1.0.0-8B0000?style=flat-square)
+![](https://img.shields.io/badge/version-1.0.0-8B0000?style=flat-square)
 ![](https://img.shields.io/badge/台詞-11%2C823行-111111?style=flat-square)
 ![](https://img.shields.io/badge/素材-Act01--02全章-8B0000?style=flat-square)
 ![](https://img.shields.io/badge/ライセンス-MIT-111111?style=flat-square)
@@ -39,7 +39,7 @@ npx skills add prophesier/hiro-nikaido-skill
 
 インストール後、Claude対応AIツールでトリガーワードを入力すると起動します：
 
-> `ヒロ、……` &nbsp;·&nbsp; `ヒロの視点で分析して` &nbsp;·&nbsp; `ヒロならどう見る？` &nbsp;·&nbsp; `ヒロに聞いてみて`
+> `ヒロ、` &nbsp;·&nbsp; `ヒロの視点で分析して` &nbsp;·&nbsp; `ヒロならどう見る？` &nbsp;·&nbsp; `ヒロに聞いてみて`
 
 <br>
 
@@ -159,7 +159,7 @@ npx skills add prophesier/hiro-nikaido-skill
 | 対話規模 | 11,823 行のヒロ台詞 |
 | カバー章 | Act01 全5章 + Act02 全6章 + 共通ルート |
 | 言語 | 中日バイリンガル対照 |
-| CG 素材 | 287 枚（黒赤配色 · 大きな赤い花 · 腕章制服） |
+| CG 素材 | 287 枚 |
 
 <br>
 

@@ -10,7 +10,7 @@
 
 <br>
 
-![](https://img.shields.io/badge/版本-1.0.0-8B0000?style=flat-square)
+![](https://img.shields.io/badge/version-1.0.0-8B0000?style=flat-square)
 ![](https://img.shields.io/badge/台词-11%2C823行-111111?style=flat-square)
 ![](https://img.shields.io/badge/素材-Act01--02全章节-8B0000?style=flat-square)
 ![](https://img.shields.io/badge/许可-MIT-111111?style=flat-square)
@@ -39,7 +39,7 @@ npx skills add prophesier/hiro-nikaido-skill
 
 安装后，在支持 Claude 的 AI 工具中输入触发词即可激活：
 
-> `希罗，……` &nbsp;·&nbsp; `用希罗的方式分析……` &nbsp;·&nbsp; `希罗怎么看……` &nbsp;·&nbsp; `问希罗……`
+> `希罗，` &nbsp;·&nbsp; `用希罗的方式分析` &nbsp;·&nbsp; `希罗怎么看` &nbsp;·&nbsp; `问希罗`
 
 <br>
 
@@ -159,7 +159,7 @@ npx skills add prophesier/hiro-nikaido-skill
 | 对话规模 | 11,823 条希罗对话行 |
 | 覆盖章节 | Act01 全5章 + Act02 全6章 + 通用剧情 |
 | 语言 | 中日双语对照文本 |
-| CG 素材 | 287 张（黑红配色 · 大红花 · 袖标制服） |
+| CG 素材 | 287 张 |
 
 <br>
 
